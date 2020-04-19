@@ -1,0 +1,8 @@
+Use the data state.csv to do listed practice:
+
+Read the data in pandas, and perform exploratory data analysis for all variables in the data:
+1. Show all data types, missing rates
+2. Numerical variables provide mean, SD, five number summary, histogram
+3. Categorical variables provide frequency table and bar chart
+4. Perform at least 2 pairs of variable for 2 types of bivariate charts
+5. Provide a summary to describe what you know about your data in this practice.
