@@ -1,0 +1,6 @@
+Use the data loans_income.csv to do listed practice:
+
+Read the data in pandas, 
+1. Draw a sample with 1000 observations.
+2. Implemented bootstrap to take 10, 50 , 100, 1000 times resampling to repeatedly draw a income sample with 10 incomes
+3. Implemented bootstrap to take 10, 50 , 100, 1000 times resampling to repeatedly draw a income sample with 100 incomes
